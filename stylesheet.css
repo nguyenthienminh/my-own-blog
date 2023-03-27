@@ -1,0 +1,111 @@
+body {
+    background-image: url("..\\Images\\background1.gif");
+}
+.header {
+   text-align: center;
+}
+.mainheader {
+    font-family: cursive;
+    color: #ce0d0d;
+}
+.italicheader {
+    color: #0ca90c;
+}
+.description {
+    color: white;
+    font-family: "Arial";
+}
+.navigation-links {
+    color: white;
+}
+.navigation-links:hover {
+    color: #ceac5c;
+}
+
+.navigation-bar {
+    text-align: center;
+}
+ 
+.recent-stuff {
+    background-color: white;
+    position: relative;
+    width: 50%;
+    margin: 15px;
+    padding: 10px;
+    flex: 1;
+    
+}
+
+#secondone {
+    background-color: white;
+    position: relative;
+    width: 50%;
+    margin: 15px;
+    padding: 10px;
+    float: right;
+    flex: 1;
+}
+
+#thirdone {
+    background-color: white;
+    position: relative;
+    width: 50%;
+    margin: 15px;
+    padding: 10px;
+}
+
+.website-stickers {
+    text-align: center;
+}
+
+.last-updated {
+    color: #87CEEB;
+}
+
+
+.questions-and-answers {
+    margin: 10px;
+    color: white;
+}
+
+.blog-post {
+    background-color: white;
+    position: relative;
+    bottom: 15%;
+    margin: 15px;
+    padding: 10px;
+    border-color: black;
+}
+
+.video-player {
+    position: relative;
+    bottom: 15%;
+    margin: 15px;
+    padding: 10px;
+}
+
+.form {
+    position: relative;
+    bottom: 15%;
+    margin: 15px;
+    text-align: center;
+    border-color: black;
+}
+
+#blog-content {
+    position: relative;
+    bottom: 15%;
+    margin: 15px;
+    padding: 10px;
+    text-decoration-color: white;
+}
+.blog-links {
+    color: black;
+}
+.blog-links:hover {
+    color: #c6a505;
+}
+.most-recent-header {
+    text-align: center;
+    color: white;
+}
